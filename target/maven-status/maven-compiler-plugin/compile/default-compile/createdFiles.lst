@@ -1,0 +1,11 @@
+service\IPersonaje.class
+repository\PeliculaSerieRepository.class
+service\impl\PersonajeServiceImpl.class
+model\Genero.class
+model\Personaje.class
+com\lucasbarroso\ChallengeJava\ChallengeJavaApplication.class
+model\PeliculaSerie.class
+repository\GeneroRepository.class
+service\IGenero.class
+service\IPeliculaSerie.class
+repository\PersonajeRepository.class
